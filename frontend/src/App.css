@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;/* Para que o padding e a margin deste elemento não estrapolem 
+                            a altura e a largura dele*/
+}
+
+html, body, #root {
+    height: 100%;
+    /*Nenhuma TAG do HMTML ocupa 100% por padão*/
+}
+
+body {
+    background: #F5F5F5;
+}
+
+body, input, button {
+    font-family: Arial, Helvetica, sans-serif;
+    /*Por padrão, o button e o input não herdam a fonte do body*/
+}
