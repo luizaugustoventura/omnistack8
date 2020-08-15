@@ -11,7 +11,7 @@
     Encontre o seu pair programming, um dev para sua empresa, ou até mesmo um sócio para fundar sua startup tecnológica!
 </h3>
 
-<p>Desenvolvido durante a Semana OmniStack8 (evento realizado pela Rocketseat), o Tindev é uma aplicação Tinder-style que conecta desenvolvedores a partir da api do GitHub.</p>
+<p>Desenvolvido durante a Semana OmniStack 8 (evento realizado pela Rocketseat), o Tindev é uma aplicação Tinder-style que conecta desenvolvedores a partir da api do GitHub.</p>
 
 <h4>🛠 Tecnologias e ferramentas: 🛠</h4>
 <ul>
@@ -26,17 +26,29 @@
     <tr><td colspan="3" align="center"><strong>Aplicação web</strong></td></tr>
     <tr>
         <td>
-            <img src="screenshots/web_login.png" alt="Página de login da aplicação web" title="Página de login da aplicação web">
+            <img 
+                src="screenshots/web_login.png"
+                alt="Página de login da aplicação web"
+                title="Página de login da aplicação web"
+            />
         </td>
     </tr>
     <tr>
         <td>
-            <img src="screenshots/web_home.png">
+            <img 
+                src="screenshots/web_home.png"
+                alt="Homepage da aplicação web"
+                title="Homepage da aplicação web"
+            />
         </td>
     </tr>
     <tr>
         <td>
-            <img src="screenshots/web_match.png">
+            <img 
+                src="screenshots/web_match.png"
+                alt="Evnto de match na aplicação web"
+                title="Evnto de match na aplicação web"
+            />
         </td>
     </tr>
 </table>
@@ -44,13 +56,25 @@
     <tr><td colspan="3" align="center"><strong>Aplicação mobile</strong></td></tr>
     <tr>
         <td>
-            <img src="screenshots/mobile_login.png">
+            <img
+                src="screenshots/mobile_login.png"
+                alt="Página de login da aplicação mobile"
+                title="Página de login da aplicação mobile"
+            />
         </td>
         <td>
-            <img src="screenshots/mobile_home.png">
+            <img
+                src="screenshots/mobile_home.png"
+                alt="Homepage da aplicação mobile"
+                title="Homepage da aplicação mobile"
+            />
         </td>
         <td>
-            <img src="screenshots/mobile_match.png">
+            <img
+                src="screenshots/mobile_match.png"
+                alt="Evento de match na aplicação mobile"
+                title="Evento de match na aplicação mobile"
+            />
         </td>
     </tr>
 </table>
