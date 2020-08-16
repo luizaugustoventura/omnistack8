@@ -15,10 +15,10 @@
 
 <h4>🛠 Tecnologias e ferramentas: 🛠</h4>
 <ul>
-    <li>Node.JS</li>
+    <li>Node.JS e Express</li>
+     <li>MongoDB e Mongoose</li>
     <li>ReactJS</li>
     <li>React Native</li>
-    <li>MongoDB</li>
 </ul>
 
 <h4>📷 Capturas de tela: 📷</h4>
@@ -46,8 +46,8 @@
         <td>
             <img 
                 src="screenshots/web_match.png"
-                alt="Evnto de match na aplicação web"
-                title="Evnto de match na aplicação web"
+                alt="Evento de match na aplicação web"
+                title="Evento de match na aplicação web"
             />
         </td>
     </tr>
