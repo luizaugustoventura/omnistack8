@@ -21,6 +21,11 @@
     <li>React Native</li>
 </ul>
 
+<h4>📑 Recursos adicionais: ⌨</h4>
+<ul>
+    <li>Configuração dos eventos de <em>match</em> em tempo real com <strong>Socket.IO</strong></li>
+</ul>
+
 <h4>📷 Capturas de tela: 📷</h4>
 <table>
     <tr><td colspan="3" align="center"><strong>Aplicação web</strong></td></tr>
